@@ -39,7 +39,7 @@ MonoBehaviour:
   playerSwitching: 1
   player: {fileID: 0}
   players: []
-  movementMethod: 5
+  movementMethod: 1
   inputMethod: 0
   interactionMethod: 0
   selectInteractions: 0
