@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b2cd11e06e7fc41a595e0cccca50dae3, type: 3}
-  m_Name: CursorManager
+  m_Name: SimonsDetectiveStory_CursorManager
   m_EditorClassIdentifier: 
   cursorRendering: 0
   cursorDisplay: 0
@@ -23,7 +23,7 @@ MonoBehaviour:
   walkPrefix:
     label: Walk to
     lineID: -1
-  addHotspotPrefix: 0
+  addHotspotPrefix: 1
   allowInteractionCursor: 0
   allowInteractionCursorForInventory: 0
   cycleCursors: 0
