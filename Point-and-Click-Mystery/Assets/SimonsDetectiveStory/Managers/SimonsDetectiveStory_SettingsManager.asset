@@ -37,7 +37,7 @@ MonoBehaviour:
   actionListOnStart: {fileID: 0}
   blackOutWhenSkipping: 0
   playerSwitching: 1
-  player: {fileID: 8839619670081211114, guid: 664fc25783aba474f9248b9f2bc71a10, type: 3}
+  player: {fileID: 1729796298220138985, guid: 9cdb7d40ac5f1544f98183d525feb010, type: 3}
   players: []
   movementMethod: 0
   inputMethod: 0
@@ -45,7 +45,7 @@ MonoBehaviour:
   selectInteractions: 0
   autoHideInteractionIcons: 1
   cancelInteractions: 0
-  seeInteractions: 0
+  seeInteractions: 1
   closeInteractionMenuIfTapHotspot: 1
   stopPlayerOnClickHotspot: 0
   cycleInventoryCursors: 1
