@@ -47,7 +47,7 @@ MonoBehaviour:
     frameSpeeds: []
     alwaysAnimate: 0
   pointerIcon:
-    texture: {fileID: 2800000, guid: 5c83780962ed843c0928648679746938, type: 3}
+    texture: {fileID: 2800000, guid: 699df70babf604d43bcddf591b52195f, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -161,4 +161,4 @@ MonoBehaviour:
   lookUseCursorAction: 0
   lookCursor_ID: 2
   hideCursorWhenDraggingMoveables: 1
-  forceCursorInEditor: 1
+  forceCursorInEditor: 0
