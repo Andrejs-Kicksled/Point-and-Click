@@ -829,9 +829,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 15
   title: Start Info
-  manualSize: {x: 40.999996, y: 71.1955}
+  manualSize: {x: 40.999996, y: 71.2356}
   positionType: 0
-  manualPosition: {x: 395.5, y: 222.5}
+  manualPosition: {x: 509.5, y: 286.5}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -904,13 +904,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 320.35498, y: 312.865}
+  biggestElementSize: {x: 412.69498, y: 403.085}
   rect:
     serializedVersion: 2
-    x: 233.34502
-    y: 64.09001
-    width: 324.30997
-    height: 316.81998
+    x: 300.605
+    y: 82.41
+    width: 417.78998
+    height: 408.18
   showInFilter: 1
 --- !u!114 &-6671517130160855034
 MonoBehaviour:
@@ -1760,7 +1760,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 2
   title: Label
-  slotSize: {x: 7.5853353, y: 3.8202248}
+  slotSize: {x: 7.9489694, y: 3.8394415}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -1785,10 +1785,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.955
-    y: 3.955
-    width: 60
-    height: 17
+    x: 5.095
+    y: 5.095
+    width: 80.99999
+    height: 22
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -2486,10 +2486,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.955
-    y: 24.91
-    width: 316.4
-    height: 267
+    x: 5.095
+    y: 32.19
+    width: 407.59998
+    height: 343.8
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
@@ -4468,7 +4468,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: Button
-  slotSize: {x: 4.6776233, y: 3.8202248}
+  slotSize: {x: 4.8086357, y: 3.8394415}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -4493,10 +4493,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.955
-    y: 295.865
-    width: 37
-    height: 17
+    x: 5.095
+    y: 381.085
+    width: 48.999996
+    height: 22
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
