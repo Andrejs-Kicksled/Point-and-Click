@@ -88,8 +88,7 @@ MonoBehaviour:
   giveInvWithUnhandled: 0
   giveInvWithIconID: 0
   autoDisableUnhandledHotspots: 0
-  clickPrefab: {fileID: 4367362870695974, guid: c7f93a0255162fd47bbe40874f339bf4,
-    type: 3}
+  clickPrefab: {fileID: 0}
   clickMarkerPosition: 0
   walkableClickRange: 0.5
   navMeshSearchDirection: 1
