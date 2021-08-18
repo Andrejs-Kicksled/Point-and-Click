@@ -518,11 +518,11 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-    m_Name: SkipCutscene
+    m_Name: EndCutscene
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: left shift
+    positiveButton: mouse 0
     altNegativeButton: 
     altPositiveButton: 
     gravity: 1000

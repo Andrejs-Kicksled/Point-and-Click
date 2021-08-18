@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Murder Scene.unity
+    guid: a6d031bab53a0534295a778ea7151e77
+  - enabled: 1
+    path: Assets/Scenes/CyberStreets.unity
+    guid: 7c94cc5d926607b4c8cdab0d9df1a08a
   m_configObjects: {}
