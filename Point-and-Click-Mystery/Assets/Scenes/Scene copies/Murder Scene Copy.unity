@@ -752,7 +752,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh73810
+  m_Name: pb_Mesh267218
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -4966,6 +4966,7 @@ Transform:
   - {fileID: 9117923475940108557}
   - {fileID: 7181094426405834078}
   - {fileID: 5705815180360084424}
+  - {fileID: 99546404797580425}
   m_Father: {fileID: 968851515}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8808,7 +8809,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: Took you long enough
+  messageText: So they sent you did they? *officer scoffs*
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -15881,7 +15882,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: There's a blue guy dead etc etc
+  messageText: "Victim is a blueein, we ID him as \u201CInsert name\u201D\u2026"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -16796,6 +16797,129 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &99546404787809609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 99546404798011561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b21667ad3f1ae4696857cd09075624f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionSource: 0
+  options:
+  - label: Victim is blueein, we ID him as "insert name"...
+    lineID: -1
+    icon: {fileID: 0}
+    cursorIcon:
+      texture: {fileID: 0}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+    isOn: 1
+    isLocked: 0
+    conversationAction: 0
+    newConversation: {fileID: 0}
+    ID: 1
+    hasBeenChosen: 0
+    linkToInventory: 0
+    linkedInventoryID: 0
+    dialogueOption: {fileID: 0}
+    assetFile: {fileID: 0}
+    customScriptObject: {fileID: 0}
+    customScriptFunction: 
+  selectedOption:
+    label: Victim is blueein, we ID him as "insert name"...
+    lineID: -1
+    icon: {fileID: 0}
+    cursorIcon:
+      texture: {fileID: 0}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.015
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+    isOn: 1
+    isLocked: 0
+    conversationAction: 0
+    newConversation: {fileID: 0}
+    ID: 1
+    hasBeenChosen: 0
+    linkToInventory: 0
+    linkedInventoryID: 0
+    dialogueOption: {fileID: 0}
+    assetFile: {fileID: 0}
+    customScriptObject: {fileID: 0}
+    customScriptFunction: 
+  lastOption: -1
+  autoPlay: 0
+  isTimed: 0
+  timer: 5
+  defaultOption: 0
+--- !u!114 &99546404787809611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 99546404798011561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b1b97fe2b064fe387b7909723534cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 1236868
+  retainInPrefab: 0
+  autoManual: 0
+--- !u!4 &99546404797580425
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 99546404798011561}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 684983298}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &99546404798011561
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 99546404797580425}
+  - component: {fileID: 99546404787809611}
+  - component: {fileID: 99546404787809609}
+  m_Layer: 2
+  m_Name: CO response 1a
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!20 &197429777069433806
 Camera:
   m_ObjectHideFlags: 0
@@ -18768,7 +18892,7 @@ PrefabInstance:
     - target: {fileID: 4976396410528810490, guid: ae1c5865187b08448bd49ced9db6caf8,
         type: 3}
       propertyPath: m_Name
-      value: Alley_Cop
+      value: Commanding Officer
       objectReference: {fileID: 0}
     - target: {fileID: 4979207478257739502, guid: ae1c5865187b08448bd49ced9db6caf8,
         type: 3}
@@ -19500,7 +19624,7 @@ GameObject:
   - component: {fileID: 7059402145164500660}
   - component: {fileID: 7059402145170388852}
   m_Layer: 0
-  m_Name: InfoCop_Option
+  m_Name: CO response 1a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20655,7 +20779,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: Give me the deets
+  - label: It seems so... Just tell me what i need to know, so we both can get out
+      of here sooner rather than later.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -20673,8 +20798,8 @@ MonoBehaviour:
       alwaysAnimate: 0
     isOn: 1
     isLocked: 0
-    conversationAction: 0
-    newConversation: {fileID: 0}
+    conversationAction: 2
+    newConversation: {fileID: 99546404787809609}
     ID: 1
     hasBeenChosen: 0
     linkToInventory: 0
@@ -20768,7 +20893,8 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: You know what you have done!
+    label: It seems so... Just tell me what i need to know, so we both can get out
+      of here sooner rather than later.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -20787,12 +20913,12 @@ MonoBehaviour:
     isOn: 1
     isLocked: 0
     conversationAction: 2
-    newConversation: {fileID: 5705815180367036936}
-    ID: 4
+    newConversation: {fileID: 99546404787809609}
+    ID: 1
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 7184715607184959762}
+    dialogueOption: {fileID: 7059402145170388852}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -20842,7 +20968,7 @@ GameObject:
   - component: {fileID: 9117923475933167823}
   - component: {fileID: 9117923475933167821}
   m_Layer: 2
-  m_Name: InfoCop
+  m_Name: CO conversation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
