@@ -802,10 +802,10 @@ MonoBehaviour:
   biggestElementSize: {x: 471.65723, y: 252.98247}
   rect:
     serializedVersion: 2
-    x: 49.229996
-    y: 249.07501
-    width: 448.54
-    height: 362.84998
+    x: 47.295
+    y: 239.355
+    width: 430.91
+    height: 348.68997
   showInFilter: 1
 --- !u!114 &-6721881886146556763
 MonoBehaviour:
@@ -2802,7 +2802,7 @@ MonoBehaviour:
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 31e9027949eff3b40a1e5d085e0a9935, type: 3}
   fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontColor: {r: 1, g: 0.9523822, b: 0.4481132, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
   isClickable: 0
@@ -2820,16 +2820,16 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 11.1384
-    width: 544
-    height: 42.84
+    y: 10.7562
+    width: 525.5
+    height: 41.37
   relativePosition: {x: 0, y: 6.5}
   numSlots: 1
   uiText: {fileID: 0}
   label: Brain
   anchor: 4
-  textEffects: 0
-  outlineSize: 2
+  textEffects: 1
+  outlineSize: 1
   labelType: 3
   variableID: 0
   useCharacterColour: 0
@@ -3009,10 +3009,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 3.13978
-    y: 83.4555
-    width: 437.59998
-    height: 193.725
+    x: 3.01637
+    y: 80.19869
+    width: 420.40002
+    height: 186.165
   relativePosition: {x: 0.7, y: 23}
   numSlots: 6
   uiSlots:
@@ -3035,12 +3035,12 @@ MonoBehaviour:
   outlineSize: 2
   displayType: 0
   testIcon: {fileID: 0}
-  anchor: 4
+  anchor: 3
   fixedOption: 0
   optionToShow: 1
   maxSlots: 6
-  markAlreadyChosen: 0
-  alreadyChosenFontColour: {r: 1, g: 1, b: 1, a: 1}
+  markAlreadyChosen: 1
+  alreadyChosenFontColour: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
   alreadyChosenFontHighlightedColour: {r: 1, g: 1, b: 1, a: 1}
   showIndexNumbers: 0
   uiHideStyle: 0
@@ -3879,7 +3879,7 @@ MonoBehaviour:
   orientation: 1
   transitionType: 0
   panDirection: 0
-  panMovement: 0
+  panMovement: 1
   timeCurve:
     serializedVersion: 2
     m_Curve:
@@ -3915,10 +3915,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 272
-    y: 403.308
-    width: 544
-    height: 171.36
+    x: 262.75
+    y: 389.46902
+    width: 525.5
+    height: 165.48
   showInFilter: 1
 --- !u!114 &466137385962571699
 MonoBehaviour:
@@ -4564,9 +4564,9 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 45.58176
-    width: 544
-    height: 46.511997
+    y: 44.017677
+    width: 525.5
+    height: 44.915997
   relativePosition: {x: 0, y: 26.6}
   numSlots: 1
   uiText: {fileID: 0}
@@ -5511,8 +5511,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 382.9
-    height: 6.15
+    width: 367.85
+    height: 5.91
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
