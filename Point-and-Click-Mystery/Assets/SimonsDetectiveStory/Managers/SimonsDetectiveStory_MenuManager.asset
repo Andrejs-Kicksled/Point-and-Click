@@ -802,10 +802,10 @@ MonoBehaviour:
   biggestElementSize: {x: 471.65723, y: 252.98247}
   rect:
     serializedVersion: 2
-    x: 233.64
-    y: 171.71
-    width: 324.72
-    height: 263.13998
+    x: 156.055
+    y: 114.73
+    width: 216.89
+    height: 175.81999
   showInFilter: 1
 --- !u!114 &-6721881886146556763
 MonoBehaviour:
@@ -3009,10 +3009,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.27304
-    y: 60.522198
-    width: 316.8
-    height: 17.84
+    x: 1.51823
+    y: 40.4386
+    width: 211.6
+    height: 11.92
   relativePosition: {x: 0.7, y: 23}
   numSlots: 1
   uiSlots:
@@ -5511,8 +5511,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 277.2
-    height: 4.46
+    width: 185.15
+    height: 2.98
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
