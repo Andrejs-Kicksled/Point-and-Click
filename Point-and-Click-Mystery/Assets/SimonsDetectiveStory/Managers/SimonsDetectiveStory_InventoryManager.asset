@@ -16,7 +16,7 @@ MonoBehaviour:
   - label: Dance club card
     id: 0
     altLabel: 
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -168,6 +168,116 @@ MonoBehaviour:
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 11400000, guid: 0c17d8fed40f654479e126b9a9708672, type: 2}
+    interactions: []
+    combineInteractions: []
+    combineActionList: []
+    combineID: 
+    unhandledActionList: {fileID: 0}
+    unhandledCombineActionList: {fileID: 0}
+    carryOnStartID: -1
+    useSeparateSlots: 0
+    selectSingle: 0
+    showInFilter: 1
+  - label: Fizzy green refreshing cocktail
+    id: 3
+    altLabel: 
+    carryOnStart: 0
+    carryOnStartNotDefault: 0
+    carryOnStartIDs: 00000000
+    vars: []
+    canCarryMultiple: 0
+    count: 1
+    canBeLowerCase: 0
+    maxCount: 999
+    itemStackingMode: 0
+    tex: {fileID: 2800000, guid: 9f0daad3d77c6b445bcb80f14558dd6d, type: 3}
+    activeTex: {fileID: 0}
+    selectedTex: {fileID: 0}
+    linkedPrefab: {fileID: 0}
+    cursorIcon:
+      texture: {fileID: 0}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.04
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+      dontCycle: 0
+      label: Icon 1
+      lineID: -1
+      id: 0
+    lineID: -1
+    useIconID: 0
+    binID: -1
+    overrideUseSyntax: 0
+    hotspotPrefix1:
+      label: Use
+      lineID: -1
+    hotspotPrefix2:
+      label: on
+      lineID: -1
+    useActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 12cc425ffed6d76458b41873dfce7649, type: 2}
+    interactions: []
+    combineInteractions: []
+    combineActionList: []
+    combineID: 
+    unhandledActionList: {fileID: 0}
+    unhandledCombineActionList: {fileID: 0}
+    carryOnStartID: -1
+    useSeparateSlots: 0
+    selectSingle: 0
+    showInFilter: 1
+  - label: Bad drink
+    id: 4
+    altLabel: 
+    carryOnStart: 0
+    carryOnStartNotDefault: 0
+    carryOnStartIDs: 00000000
+    vars: []
+    canCarryMultiple: 0
+    count: 1
+    canBeLowerCase: 0
+    maxCount: 999
+    itemStackingMode: 0
+    tex: {fileID: 2800000, guid: 6e7efac84982c4fb28b5e4870630bf96, type: 3}
+    activeTex: {fileID: 0}
+    selectedTex: {fileID: 0}
+    linkedPrefab: {fileID: 0}
+    cursorIcon:
+      texture: {fileID: 0}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.04
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+      dontCycle: 0
+      label: Icon 1
+      lineID: -1
+      id: 0
+    lineID: -1
+    useIconID: 0
+    binID: -1
+    overrideUseSyntax: 0
+    hotspotPrefix1:
+      label: Use
+      lineID: -1
+    hotspotPrefix2:
+      label: on
+      lineID: -1
+    useActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: 73d98a19b81029a4cbc0d7f8d6fc6726, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
