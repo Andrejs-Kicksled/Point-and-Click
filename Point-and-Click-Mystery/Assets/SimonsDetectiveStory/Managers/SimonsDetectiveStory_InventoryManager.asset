@@ -172,8 +172,7 @@ MonoBehaviour:
     combineInteractions: []
     combineActionList: []
     combineID: 
-    unhandledActionList: {fileID: 11400000, guid: 81eb7f9ff9f50ed4b95b7e5778484e2f,
-      type: 2}
+    unhandledActionList: {fileID: 0}
     unhandledCombineActionList: {fileID: 0}
     carryOnStartID: -1
     useSeparateSlots: 0

@@ -728,9 +728,9 @@ MonoBehaviour:
   title: Conversation
   manualSize: {x: 41, y: 59}
   positionType: 2
-  manualPosition: {x: 25, y: 70}
+  manualPosition: {x: 50, y: 70}
   positionSmoothing: 0
-  alignment: 3
+  alignment: 4
   toggleKey: 
   ignoreMouseClicks: 0
   pauseWhenEnabled: 0
@@ -762,7 +762,7 @@ MonoBehaviour:
   - {fileID: 3623900661844639583}
   spacing: 2
   sizeType: 1
-  autoSizeEveryFrame: 0
+  autoSizeEveryFrame: 1
   orientation: 1
   transitionType: 0
   panDirection: 0
@@ -2987,7 +2987,7 @@ MonoBehaviour:
   slotSize: {x: 40, y: 4}
   sizeType: 1
   positionType: 2
-  slotSpacing: 1.5
+  slotSpacing: 3
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 31e9027949eff3b40a1e5d085e0a9935, type: 3}
@@ -2997,7 +2997,7 @@ MonoBehaviour:
   isVisible: 1
   isClickable: 1
   orientation: 1
-  gridWidth: 1
+  gridWidth: 5
   backgroundTexture: {fileID: 0}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 2800000, guid: f312daffaffcef84fa9d56f968942009, type: 3}
@@ -3014,7 +3014,7 @@ MonoBehaviour:
     width: 437.59998
     height: 193.725
   relativePosition: {x: 0.7, y: 23}
-  numSlots: 6
+  numSlots: 1
   uiSlots:
   - uiButton: {fileID: 0}
     uiButtonID: 14180912
@@ -3035,12 +3035,12 @@ MonoBehaviour:
   outlineSize: 2
   displayType: 0
   testIcon: {fileID: 0}
-  anchor: 4
+  anchor: 3
   fixedOption: 0
   optionToShow: 1
   maxSlots: 6
-  markAlreadyChosen: 0
-  alreadyChosenFontColour: {r: 1, g: 1, b: 1, a: 1}
+  markAlreadyChosen: 1
+  alreadyChosenFontColour: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}
   alreadyChosenFontHighlightedColour: {r: 1, g: 1, b: 1, a: 1}
   showIndexNumbers: 0
   uiHideStyle: 0
@@ -3840,7 +3840,7 @@ MonoBehaviour:
   id: 9
   title: Subtitles
   manualSize: {x: 50, y: 28}
-  positionType: 2
+  positionType: 0
   manualPosition: {x: 50, y: 79.9}
   positionSmoothing: 0
   alignment: 0
