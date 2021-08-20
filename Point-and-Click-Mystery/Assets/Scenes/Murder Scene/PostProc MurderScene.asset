@@ -46,7 +46,7 @@ MonoBehaviour:
     min: 0
   gaussianEnd:
     m_OverrideState: 1
-    m_Value: 120
+    m_Value: 155
     min: 0
   gaussianMaxRadius:
     m_OverrideState: 1
@@ -241,6 +241,24 @@ MonoBehaviour:
   - {fileID: -8937135540700441652}
   - {fileID: -6747473928402534996}
   - {fileID: -2696299923295924101}
+  - {fileID: 2850903293158789702}
+--- !u!114 &2850903293158789702
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+  m_Name: Tonemapping
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  mode:
+    m_OverrideState: 1
+    m_Value: 1
 --- !u!114 &4592424008990146577
 MonoBehaviour:
   m_ObjectHideFlags: 3
