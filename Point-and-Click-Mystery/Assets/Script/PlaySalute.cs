@@ -4,15 +4,23 @@ using UnityEngine;
 
 public class PlaySalute : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+
+    [SerializeField] private Animator playSalute;
+
+    private void OnTriggerEnter(Collider other)
     {
-        
+        if (other.CompareTag("Player"))
+        {
+            playSalute.SetBool("playSalute", true);
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerExit(Collider other)
     {
-        
+        if (other.CompareTag("Player"))
+        {
+            playSalute.SetBool("playSalute", false);
+        }
     }
+
 }

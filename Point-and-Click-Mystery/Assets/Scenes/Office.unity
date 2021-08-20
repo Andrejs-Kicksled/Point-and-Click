@@ -29803,6 +29803,12 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: cf4cdc0d8b6d40e40a69ab8c1b549f7d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6909982d91f86a04e831a86fff27cd80, type: 3}
+--- !u!95 &1323233725 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 95910397095232528, guid: 6909982d91f86a04e831a86fff27cd80,
+    type: 3}
+  m_PrefabInstance: {fileID: 1323233724}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1323595983
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33657,7 +33663,7 @@ GameObject:
   - component: {fileID: 1477909891}
   - component: {fileID: 1477909890}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Animator_Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33675,6 +33681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41bbc35dc31fbf8449ab2f38c5a957b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playSalute: {fileID: 1323233725}
 --- !u!65 &1477909891
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -46067,7 +46074,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2037412284}
   m_LocalRotation: {x: -0.12918092, y: 0.898153, z: -0.21112959, w: -0.36339757}
-  m_LocalPosition: {x: -10.59, y: 2.23, z: 9.96}
+  m_LocalPosition: {x: -11.16, y: 2.23, z: 9.92}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
