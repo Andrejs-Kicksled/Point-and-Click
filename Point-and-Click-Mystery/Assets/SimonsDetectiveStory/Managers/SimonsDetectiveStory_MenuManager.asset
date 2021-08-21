@@ -727,10 +727,10 @@ MonoBehaviour:
   id: 5
   title: Conversation
   manualSize: {x: 41, y: 59}
-  positionType: 2
-  manualPosition: {x: 50, y: 68}
+  positionType: 1
+  manualPosition: {x: 50, y: 20}
   positionSmoothing: 0
-  alignment: 4
+  alignment: 7
   toggleKey: 
   ignoreMouseClicks: 0
   pauseWhenEnabled: 0
@@ -3035,7 +3035,7 @@ MonoBehaviour:
   outlineSize: 1
   displayType: 0
   testIcon: {fileID: 0}
-  anchor: 4
+  anchor: 7
   fixedOption: 0
   optionToShow: 1
   maxSlots: 8
