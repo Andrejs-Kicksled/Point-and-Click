@@ -2495,9 +2495,9 @@ MonoBehaviour:
   uiText: {fileID: 0}
   pages:
   - lineID: -1
-    text: uuhhh hard boiled cop is here to investigate a murder that just happend
-      uuugg wheres my cyber smokes? I should go to the info cop and ask what the
-      deal is yo
+    text: "Detective Hoppkins arrives at a crime scene after being called in. It\u2019s
+      a cold evening with a small drizzle falling slowly from the sky. Commanding
+      officer Doyle should have more info."
   numPages: 1
   showPage: 1
   startFromPage: 0
