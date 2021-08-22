@@ -332,7 +332,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.004125
+      value: -8.08
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.z
@@ -485,17 +485,17 @@ PrefabInstance:
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.260314
+      value: -6.2646
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.4405365
+      value: -6.4352
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.021708
+      value: -8.9956
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
@@ -2581,7 +2581,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 206176504}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -16.77, y: 1.01, z: -11.671}
+  m_LocalPosition: {x: -16.77, y: 1.01, z: -12.95}
   m_LocalScale: {x: 0.36333784, y: 0.674, z: 7.1317606}
   m_Children: []
   m_Father: {fileID: 555348638}
@@ -3008,15 +3008,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.878
+      value: 5.8943
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.5515882
+      value: -1.5516
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.94
+      value: -2.9686
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3096,7 +3096,7 @@ MonoBehaviour:
   speaker: {fileID: 1204789415}
   messageText: A lady saw some lowlife pocket thief leaned over a body and called
     it in, so we got both the lady and the pocket thief. If there's anything else
-    talk to officer "insert name".
+    talk to officer Foley.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -3410,7 +3410,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.004125
+      value: -8.08
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4264,7 +4264,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Woman
+      value: Anna Bell
       objectReference: {fileID: 0}
     - target: {fileID: 4000628349050788, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5618,7 +5618,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: Nothing that comes to mind at the moment. I've told officer newbie
+  messageText: Nothing that comes to mind at the moment. I've told officer Foley
     everything I could think of.
   lineID: -1
   multiLineIDs: 
@@ -6503,7 +6503,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: There it is... close range shot the the back of the head.
+  messageText: There's no blood, he wasn't shot here.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -7064,8 +7064,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I saw a red car with no number dropping off the body that is all I
-    know, I really don't know anything else.
+  messageText: I saw a white with red car with blue headlights dropping off the body
+    that is all I know, I really don't know anything else.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -8876,6 +8876,21 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5233979864387659786, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.37444
+      objectReference: {fileID: 0}
+    - target: {fileID: 5233979864387659786, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5515882
+      objectReference: {fileID: 0}
+    - target: {fileID: 5233979864387659786, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2998
+      objectReference: {fileID: 0}
     - target: {fileID: 5235533085793938978, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_Layer
@@ -8904,17 +8919,17 @@ PrefabInstance:
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.260314
+      value: -6.2646
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.4405365
+      value: -6.4352
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.260708
+      value: -15.264
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
@@ -9056,7 +9071,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.004125
+      value: -8.08
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9915,7 +9930,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1250972084022596, guid: 2660028b03df0864c97c559f312915ba, type: 3}
       propertyPath: m_Name
-      value: Victim
+      value: Lester Rogers
       objectReference: {fileID: 0}
     - target: {fileID: 1490327032843848, guid: 2660028b03df0864c97c559f312915ba, type: 3}
       propertyPath: m_IsActive
@@ -10787,7 +10802,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: There's no blood, he wasn't shot here.
+  messageText: Close range shot to the back of the head.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -11272,7 +11287,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Good, we are thankful for you cooperation miss "name".
+  messageText: Good, we are thankful for you cooperation miss Bell.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -14545,17 +14560,17 @@ PrefabInstance:
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.260314
+      value: -6.2657
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.4405365
+      value: -6.4357
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -24.638708
+      value: -24.609
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
@@ -14603,7 +14618,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Bulky Officer
+      value: Officer Gunderson
       objectReference: {fileID: 0}
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Layer
@@ -15741,6 +15756,100 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
+--- !u!1 &811132533
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 811132537}
+  - component: {fileID: 811132536}
+  - component: {fileID: 811132535}
+  - component: {fileID: 811132534}
+  m_Layer: 0
+  m_Name: Poster (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!64 &811132534
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &811132535
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 85f5ee439de179c4ebc577c9bfe1bb1e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &811132536
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &811132537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_LocalRotation: {x: 0.70710576, y: -0, z: -0, w: 0.7071079}
+  m_LocalPosition: {x: -1.498, y: 2.527, z: -5.555}
+  m_LocalScale: {x: 0.09394834, y: 0.09394834, z: 0.11217431}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 47
+  m_LocalEulerAnglesHint: {x: 90.00001, y: 0, z: 0}
 --- !u!1001 &812032201
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18496,7 +18605,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Pickpocket
+      value: Twichy Rick
       objectReference: {fileID: 0}
     - target: {fileID: 4000628349050788, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20187,17 +20296,17 @@ PrefabInstance:
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.260314
+      value: -6.2657
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.4405365
+      value: -6.4357
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -18.393707
+      value: -18.347
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
@@ -20626,15 +20735,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.878
+      value: 5.8943
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.5515882
+      value: -1.5516
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.17
+      value: 0.16571
       objectReference: {fileID: 0}
     - target: {fileID: 4294814583432324, guid: 8e7631b36958d68408ebf64b86f272e9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -22273,6 +22382,31 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5010761934952292519, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.7599
+      objectReference: {fileID: 0}
+    - target: {fileID: 5010761934952292519, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5515882
+      objectReference: {fileID: 0}
+    - target: {fileID: 5010761934952292519, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2997
+      objectReference: {fileID: 0}
+    - target: {fileID: 5233979864387659786, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.37445
+      objectReference: {fileID: 0}
+    - target: {fileID: 5233979864387659786, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2994
+      objectReference: {fileID: 0}
     - target: {fileID: 5235533085793938978, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_Layer
@@ -22301,17 +22435,17 @@ PrefabInstance:
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.260314
+      value: -6.2646
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.4405365
+      value: -6.4352
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -12.143461
+      value: -12.13
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
@@ -22718,7 +22852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.004125
+      value: -8.08
       objectReference: {fileID: 0}
     - target: {fileID: 4456398018706560, guid: a772ff3690203ee428eb1a2ef2ed8661, type: 3}
       propertyPath: m_LocalPosition.z
@@ -24224,7 +24358,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "if anything else comes to mind don\u2019t hastate to call the number
+  messageText: "If anything else comes to mind don\u2019t hastate to call the number
     on this business card. *detective hand a business card*."
   lineID: -1
   multiLineIDs: 
@@ -24398,8 +24532,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1302193291}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -16.888, y: 1.01, z: -10.701}
-  m_LocalScale: {x: 0.7989073, y: 0.674, z: 7.2533245}
+  m_LocalPosition: {x: -16.888, y: 1.01, z: -11.87}
+  m_LocalScale: {x: 1.7249207, y: 0.674, z: 7.2533245}
   m_Children: []
   m_Father: {fileID: 555348638}
   m_RootOrder: 3
@@ -24950,6 +25084,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 530855538238587384, guid: b4e93ca7e21c5684b8134d7f0993eded,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6467171439685540695, guid: b4e93ca7e21c5684b8134d7f0993eded,
         type: 3}
       propertyPath: m_RootOrder
@@ -25009,6 +25148,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Flying news drone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9021502609791360027, guid: b4e93ca7e21c5684b8134d7f0993eded,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b4e93ca7e21c5684b8134d7f0993eded, type: 3}
@@ -28588,7 +28732,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: As I told officer newbie, I saw a man leaning a blueein from my window,
+  messageText: As I told officer Foley, I saw a man leaning a blueein from my window,
     first I didn't much of it thoight maybe he was trying to help a friend, but then
     I saw him start go through his clothes and I understood that he was robbing him.
     That's when I called in the police, not shortly after the first officer arrived
@@ -28846,17 +28990,17 @@ PrefabInstance:
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.260314
+      value: -6.2657003
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.4405365
+      value: -6.4357
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -21.510954
+      value: -21.481245
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
@@ -29344,7 +29488,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh222870
+  m_Name: pb_Mesh1149700
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29622,8 +29766,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: Fine fine, there was a car that dropped the body off, it was red with
-    no number. That all I know.
+  messageText: Fine fine, there was a car that dropped the body off, it was white
+    with red with blue headlights. That all I know.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -29683,7 +29827,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: It's miss "name".
+  messageText: It's miss Bell.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -30623,7 +30767,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I apologies miss "name". What can you tell me about tonight?
+  messageText: I apologies miss Bell. What can you tell me about tonight?
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -31253,8 +31397,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1942202932}
-  messageText: This is "womans name" she's the one that called in on the pickpocket
-    and the body.
+  messageText: This is Anna Bell she's the one that called in on the pickpocket and
+    the body.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -31440,7 +31584,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: I can't leave without thoroughly checking the crime scene
+  messageText: I can't leave without thoroughly checking the crime scene.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -31529,7 +31673,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Newbie Officer
+      value: Officer Foley
       objectReference: {fileID: 0}
     - target: {fileID: 4000628349050788, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33366,7 +33510,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: Victim is a blueein, we ID him as Kevin
+  messageText: Victim is a blueein, we ID him as Lester Rogers.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -33657,17 +33801,17 @@ PrefabInstance:
     - target: {fileID: 8082835488631222836, guid: 98ae99c0d278fd94fa76735e54f353dd,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.8734016
+      value: -3.8813
       objectReference: {fileID: 0}
     - target: {fileID: 8082835488631222836, guid: 98ae99c0d278fd94fa76735e54f353dd,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -8.662125
+      value: -8.6721
       objectReference: {fileID: 0}
     - target: {fileID: 8082835488631222836, guid: 98ae99c0d278fd94fa76735e54f353dd,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.5977073
+      value: -2.5944
       objectReference: {fileID: 0}
     - target: {fileID: 8082835488631222836, guid: 98ae99c0d278fd94fa76735e54f353dd,
         type: 3}
@@ -33758,7 +33902,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Don't want to leave just yet
+  messageText: Don't want to leave just yet.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -34403,7 +34547,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: The Board must be hapyy to have you on the payroll.
+  messageText: The Board must be happy to have you on the payroll.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -35551,6 +35695,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 530855538238587384, guid: b4e93ca7e21c5684b8134d7f0993eded,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6467171439685540695, guid: b4e93ca7e21c5684b8134d7f0993eded,
         type: 3}
       propertyPath: m_RootOrder
@@ -35610,6 +35759,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Flying news drone
+      objectReference: {fileID: 0}
+    - target: {fileID: 9021502609791360027, guid: b4e93ca7e21c5684b8134d7f0993eded,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b4e93ca7e21c5684b8134d7f0993eded, type: 3}
@@ -35997,8 +36151,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: "Ok Pickpocket \u201Cname\u201D care to tell me little bit about how you\u2019re
-      involved in all of this?"
+  - label: "Ok Twichy Rick care to tell me little bit about how you\u2019re involved
+      in all of this?"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -36166,7 +36320,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Thank you! I'll go and have a chat with Bulky Officer
+  - label: Thank you! I'll go and have a chat with Officer Gunderson.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -36223,7 +36377,8 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 
+    label: "Ok Twichy Rick care to tell me little bit about how you\u2019re involved
+      in all of this?"
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -36243,11 +36398,11 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 8
+    ID: 1
     hasBeenChosen: 0
-    linkToInventory: 1
+    linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 0}
+    dialogueOption: {fileID: 7016693374637178795}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -37632,17 +37787,17 @@ PrefabInstance:
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.260314
+      value: -6.2681
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.4405365
+      value: -6.4352
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5.904461
+      value: -5.8751
       objectReference: {fileID: 0}
     - target: {fileID: 7002873678005349339, guid: 6b2c889b0c181484b96bd8a14cb0e64c,
         type: 3}
@@ -37925,10 +38080,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4215567500319884542, guid: 02eb9b858be9e2749833055ce47247ba,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4679133160697665821, guid: 02eb9b858be9e2749833055ce47247ba,
         type: 3}
       propertyPath: m_Name
       value: Flying news drone 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4679133160697665821, guid: 02eb9b858be9e2749833055ce47247ba,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7214005922413092433, guid: 02eb9b858be9e2749833055ce47247ba,
         type: 3}
@@ -39372,7 +39537,7 @@ PrefabInstance:
     - target: {fileID: 4976396410528810490, guid: ae1c5865187b08448bd49ced9db6caf8,
         type: 3}
       propertyPath: m_Name
-      value: Commanding Officer
+      value: Commanding Officer Doyle
       objectReference: {fileID: 0}
     - target: {fileID: 4978759412983716296, guid: ae1c5865187b08448bd49ced9db6caf8,
         type: 3}
@@ -40815,7 +40980,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: Search the body
+    label: Look at head
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -40831,15 +40996,15 @@ MonoBehaviour:
       clickOffset: {x: 0, y: 0}
       frameSpeeds: []
       alwaysAnimate: 0
-    isOn: 0
+    isOn: 1
     isLocked: 0
-    conversationAction: 2
-    newConversation: {fileID: 4417214735117250981}
-    ID: 4
+    conversationAction: 0
+    newConversation: {fileID: 0}
+    ID: 1
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 7983325468857668099}
+    dialogueOption: {fileID: 8740313427519453257}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -41334,7 +41499,7 @@ GameObject:
   - component: {fileID: 6176111955567671187}
   - component: {fileID: 6176111955563620979}
   m_Layer: 0
-  m_Name: Woman and newbie officer
+  m_Name: Woman and Officer Foley
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -41708,8 +41873,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: "This is going to be a long night \u201CBulky officer\u201D, you can take
-      a short brake while I talk to the pickpocket."
+  - label: This is going to be a long night  Gunderson, you can take a short brake
+      while I talk to the pickpocket.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -41766,8 +41931,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: "This is going to be a long night \u201CBulky officer\u201D, you can take
-      a short brake while I talk to the pickpocket."
+    label: I'll get back to you in a moment
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -41787,11 +41951,11 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 1
     newConversation: {fileID: 0}
-    ID: 1
+    ID: 2
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 6057306962741680698}
+    dialogueOption: {fileID: 0}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -43073,7 +43237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: Could you tell me a little bit of what you saw here tonight misses "name"
+  - label: Could you tell me a little bit of what you saw here tonight misses Bell.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43101,7 +43265,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Did you see anthing prior to the thief leaning over the blueein
+  - label: Did you see anything prior to the thief leaning over the blueein
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43157,7 +43321,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Very Well. Have you written down miss "name" statement officer newbie?
+  - label: Very Well. Have you written down miss Bell's statement officer Foley?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43185,7 +43349,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Thank you miss "name" you are free to return to your apartment.
+  - label: Thank you miss Bell you are free to return to your apartment.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43214,7 +43378,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: Thank you miss "name" you are free to return to your apartment.
+    label: Thank you miss Bell you are free to return to your apartment.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -44433,7 +44597,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: I'll get back to you later.
+    label: So who's the victim?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -44451,13 +44615,13 @@ MonoBehaviour:
       alwaysAnimate: 0
     isOn: 1
     isLocked: 0
-    conversationAction: 1
+    conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 5
+    ID: 1
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 2652462381514717242}
+    dialogueOption: {fileID: 7059402145170388852}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 

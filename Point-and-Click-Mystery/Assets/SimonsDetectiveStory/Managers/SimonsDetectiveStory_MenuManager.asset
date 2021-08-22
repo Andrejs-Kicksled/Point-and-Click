@@ -728,7 +728,7 @@ MonoBehaviour:
   title: Conversation
   manualSize: {x: 41, y: 59}
   positionType: 1
-  manualPosition: {x: 50, y: 20}
+  manualPosition: {x: 481, y: 381.40503}
   positionSmoothing: 0
   alignment: 7
   toggleKey: 
@@ -802,10 +802,10 @@ MonoBehaviour:
   biggestElementSize: {x: 471.65723, y: 252.98247}
   rect:
     serializedVersion: 2
-    x: 156.055
-    y: 114.73
-    width: 216.89
-    height: 175.81999
+    x: 283.79
+    y: 221.81003
+    width: 394.41998
+    height: 319.18997
   showInFilter: 1
 --- !u!114 &-6721881886146556763
 MonoBehaviour:
@@ -2495,9 +2495,9 @@ MonoBehaviour:
   uiText: {fileID: 0}
   pages:
   - lineID: -1
-    text: uuhhh hard boiled cop is here to investigate a murder that just happend
-      uuugg wheres my cyber smokes? I should go to the info cop and ask what the
-      deal is yo
+    text: "Detective Hoppkins arrives at a crime scene after being called in. It\u2019s
+      a cold evening with a small drizzle falling slowly from the sky. Commanding
+      officer Doyle should have more info."
   numPages: 1
   showPage: 1
   startFromPage: 0
@@ -2820,9 +2820,9 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 8.1172
-    width: 396
-    height: 31.220001
+    y: 9.8462
+    width: 481
+    height: 37.87
   relativePosition: {x: 0, y: 6.5}
   numSlots: 1
   uiText: {fileID: 0}
@@ -3009,10 +3009,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 1.51823
-    y: 40.4386
-    width: 211.6
-    height: 11.92
+    x: 2.7609398
+    y: 73.4137
+    width: 384.8
+    height: 21.64
   relativePosition: {x: 0.7, y: 23}
   numSlots: 1
   uiSlots:
@@ -3841,7 +3841,7 @@ MonoBehaviour:
   title: Subtitles
   manualSize: {x: 50, y: 28}
   positionType: 0
-  manualPosition: {x: 396, y: 223}
+  manualPosition: {x: 481, y: 270.5}
   positionSmoothing: 0
   alignment: 0
   toggleKey: 
@@ -3915,10 +3915,10 @@ MonoBehaviour:
   biggestElementSize: {x: 0, y: 0}
   rect:
     serializedVersion: 2
-    x: 198
-    y: 160.56
-    width: 396
-    height: 124.88
+    x: 240.5
+    y: 194.76001
+    width: 481
+    height: 151.48
   showInFilter: 1
 --- !u!114 &466137385962571699
 MonoBehaviour:
@@ -4538,7 +4538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: SubsLineLabel
-  slotSize: {x: 50, y: 7.6}
+  slotSize: {x: 36.6, y: 7.6}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -4563,15 +4563,15 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 33.21808
-    width: 396
-    height: 33.896
-  relativePosition: {x: 0, y: 26.6}
+    x: 58.201
+    y: 47.716198
+    width: 352.09198
+    height: 41.115997
+  relativePosition: {x: 12.1, y: 31.5}
   numSlots: 1
   uiText: {fileID: 0}
   label: Hi!
-  anchor: 4
+  anchor: 3
   textEffects: 1
   outlineSize: 1
   labelType: 2
@@ -5511,8 +5511,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 185.15
-    height: 2.98
+    width: 336.69998
+    height: 5.41
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
