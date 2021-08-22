@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d9de29cc1c4a90b4bb971c5cbabec336
+  - enabled: 1
     path: Assets/Scenes/Murder Scene.unity
     guid: a6d031bab53a0534295a778ea7151e77
   - enabled: 0
