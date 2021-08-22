@@ -2150,7 +2150,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &132330712
 Transform:
   m_ObjectHideFlags: 0
@@ -3984,13 +3984,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 251817256}
-  m_LocalRotation: {x: -0.39423507, y: 0.31789815, z: -0.12178278, w: -0.85363257}
-  m_LocalPosition: {x: 1.63, y: 8.26, z: -4.89}
+  m_LocalRotation: {x: -0.38371342, y: -0.32465088, z: 0.14620364, w: -0.8520506}
+  m_LocalPosition: {x: -2.77, y: 7.11, z: -4.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1006666105}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 48.633003, y: 317.473, z: -3.7080002}
+  m_LocalEulerAnglesHint: {x: 48.488003, y: 401.716, z: 0}
 --- !u!114 &251817258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4687,7 +4687,7 @@ MonoBehaviour:
   isDisplayed: 1
   showComment: 0
   comment: 
-  willWait: 0
+  willWait: 1
   endAction: 0
   skipAction: -1
   skipActionActual: {fileID: 0}
@@ -11344,8 +11344,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 685723678}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.737, y: 3.31, z: -4.144}
-  m_LocalScale: {x: 0.70541644, y: 0.7508, z: 1.1433178}
+  m_LocalPosition: {x: 1.581, y: 3.31, z: -4.056}
+  m_LocalScale: {x: 1.0506593, y: 0.7508, z: 1.1433178}
   m_Children: []
   m_Father: {fileID: 2076724036}
   m_RootOrder: 4
@@ -11363,6 +11363,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   actions:
+  - {fileID: 1340069243}
   - {fileID: 285791815}
   - {fileID: 1154149863}
   - {fileID: 472149220}
@@ -18178,13 +18179,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1070772480}
-  m_LocalRotation: {x: -0, y: -0.64944845, z: -0, w: 0.7604057}
-  m_LocalPosition: {x: 0.548, y: 3.3, z: -4.017}
+  m_LocalRotation: {x: -0, y: -0.15141487, z: -0, w: 0.9884704}
+  m_LocalPosition: {x: 0.034, y: 3.3, z: -3.712}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1755782939}
   m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: -81.00001, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -17.418001, z: 0}
 --- !u!1001 &1071598632
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23251,6 +23252,60 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10d2ea839742aad41bf8687a2e8a98bd, type: 3}
+--- !u!114 &1340069243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3e7520fdcc044e6c96008328a357eb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 300
+    height: 60
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  constantID: 0
+  parameterID: -1
+  isPlayer: 0
+  playerID: -1
+  playerParameterID: -1
+  linkedObject: {fileID: 685723678}
+  affectChildren: 0
+  messageToSend: 1
+  customMessageParameterID: -1
+  customMessage: 
+  sendValue: 0
+  customValueParameterID: -1
+  customValue: 0
+  ignoreWhenSkipping: 0
 --- !u!1001 &1343115702
 PrefabInstance:
   m_ObjectHideFlags: 0
