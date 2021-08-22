@@ -99,7 +99,7 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: 4a9a7f3814ac5d94aa08b9a8cdd77dde,
     type: 2}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -1842,7 +1842,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Standard issue cyber cop car... piece of junk
+  messageText: Standard issue cyber cop car... piece of junk.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -9870,6 +9870,68 @@ MonoBehaviour:
   variablesConstantID: 0
   placeholderType: 0
   placeholderPopUpLabelDataID: -1
+--- !u!114 &640206838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 300
+    height: 60
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 1161079550735169487}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 0
+  playerID: -1
+  speaker: {fileID: 886365379}
+  messageText: First I didn't much of it thoight maybe he was trying to help a friend,
+    but then I saw him start go through his clothes and I understood that he was
+    robbing him.
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!1001 &646778308
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20658,7 +20720,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Since I got a DUI last week the boss told me to take the bus from
-    now on... that jerk
+    now on... that jerk.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -24426,7 +24488,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Time for a bus ride
+  messageText: Time for a bus ride.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -27606,6 +27668,67 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c52c17108ac4d14b93017d91e804006, type: 3}
+--- !u!114 &1578788130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 300
+    height: 60
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 1161079550735169487}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 0
+  playerID: -1
+  speaker: {fileID: 886365379}
+  messageText: That's when I called in the police, not shortly after the first officer
+    arrived and then after arresting the thief they called in more officers
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &1580253781
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28739,11 +28862,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: As I told officer Foley, I saw a man leaning a blueein from my window,
-    first I didn't much of it thoight maybe he was trying to help a friend, but then
-    I saw him start go through his clothes and I understood that he was robbing him.
-    That's when I called in the police, not shortly after the first officer arrived
-    and then after arresting the thief they called in more officers
+  messageText: As I told officer Foley, I saw a man leaning a blueein from my window.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -28798,7 +28917,7 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 5731278200136614800}
   chooseSceneBy: 0
-  sceneNumber: 8
+  sceneNumber: 7
   sceneNumberParameterID: -1
   sceneName: 
   sceneNameParameterID: -1
@@ -33517,7 +33636,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: Victim is a blueein, we ID him as Lester Rogers.
+  messageText: Victim is a Blueein, we ID him as Lester Rogers.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -35890,6 +36009,8 @@ MonoBehaviour:
   - {fileID: 1746730474}
   - {fileID: 1854599553}
   - {fileID: 1650851332}
+  - {fileID: 640206838}
+  - {fileID: 1578788130}
   - {fileID: 2033936100}
   - {fileID: 1894213676}
   isSkippable: 1
@@ -43454,7 +43575,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: Thank you miss Bell you are free to return to your apartment.
+    label: Could you tell me a little bit of what you saw here tonight misses Bell.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43470,15 +43591,15 @@ MonoBehaviour:
       clickOffset: {x: 0, y: 0}
       frameSpeeds: []
       alwaysAnimate: 0
-    isOn: 0
+    isOn: 1
     isLocked: 0
-    conversationAction: 1
+    conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 4
+    ID: 1
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 381446790598505332}
+    dialogueOption: {fileID: 1161079550735169487}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -44588,7 +44709,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Shot? I thought only authorized law was alloed to carry guns.
+  - label: Shot? I thought only authorized law was allowed to carry guns.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
