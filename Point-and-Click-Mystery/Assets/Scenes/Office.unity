@@ -53441,6 +53441,51 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 049f6bef1f4924346881d36116da501f, type: 3}
+--- !u!114 &1976450388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0730368720d23479f8f782e46d149b0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 300
+    height: 60
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  parameterID: -1
+  constantID: 0
+  hotspot: {fileID: 4087446926050334373}
+  affectChildren: 0
+  changeType: 1
 --- !u!1001 &1981814874
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -58574,7 +58619,7 @@ MonoBehaviour:
   interactionSource: 0
   limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
-  hotspotName: Gun
+  hotspotName: Pick up gun
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 3767794463768207208}
@@ -58715,7 +58760,7 @@ Transform:
   m_GameObject: {fileID: 4087446926055859013}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -1.2339995, y: 0.521, z: -32.018}
-  m_LocalScale: {x: 2.6717963, y: 0.7251917, z: 1.6174867}
+  m_LocalScale: {x: 2.7759964, y: 1.1943908, z: 1.6174867}
   m_Children: []
   m_Father: {fileID: 1429628427}
   m_RootOrder: 0
@@ -59040,6 +59085,7 @@ MonoBehaviour:
   - {fileID: 1584077196}
   - {fileID: 86400902}
   - {fileID: 628686519}
+  - {fileID: 1976450388}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
