@@ -99,7 +99,7 @@ LightmapSettings:
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: 4a9a7f3814ac5d94aa08b9a8cdd77dde,
     type: 2}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -426,7 +426,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1204789415}
   messageText: Yet you're allowed to carry one too. So who knows, might be a man
-    on the inside... or somone finally broke the system.
+    on the inside... Or somone finally broke the system.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -637,10 +637,10 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   messageParameterID: -1
-  isPlayer: 1
+  isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "We signed up to protect and serve, I don\u2019t need a badge to protect,
+  messageText: "We signed up to protect and serve. I don\u2019t need a badge to protect,
     the badge is there to make me serve."
   lineID: -1
   multiLineIDs: 
@@ -1842,7 +1842,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Standard issue cyber cop car... piece of junk.
+  messageText: Standard issue cyber cop car... Piece of junk.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -2411,7 +2411,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1942202932}
-  messageText: Good evening detective
+  messageText: Good evening detective.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -2535,7 +2535,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1942202932}
   messageText: " I\u2019ll check around and see if anyone else saw anything at any
-    point, that seemed out of ordinary."
+    point, that seemed out of the ordinary."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -3094,8 +3094,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: A lady saw some lowlife pocket thief leaned over a body and called
-    it in, so we got both the lady and the pocket thief. If there's anything else
+  messageText: A lady saw some lowlife pocket thief leaning over a body and called
+    it in. So we got both the lady and the pocket thief. If there's anything else
     talk to officer Foley.
   lineID: -1
   multiLineIDs: 
@@ -5605,10 +5605,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 14
+    y: 14
     width: 300
-    height: 60
+    height: 261
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 1445739897237304485}
@@ -6782,7 +6782,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I got nothing, please let me go.
+  messageText: I got nothing, please let me go!
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -7070,7 +7070,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I saw a white with red car with blue headlights dropping off the body
+  messageText: I saw a white and red car with blue headlights dropping off the body,
     that is all I know, I really don't know anything else.
   lineID: -1
   multiLineIDs: 
@@ -7978,7 +7978,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Evening newbie officer
+  messageText: Evening newbie officer.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -9492,8 +9492,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 375608653}
-  messageText: I would take if of you hands, but since your on the case, keep it
-    around. You might find what's it used for.
+  messageText: I would take if off your hands, but since you're on the case already,
+    keep it around. You might find what it's used for.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -9553,7 +9553,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: And we should trust a thief that was found robbing a dead body.
+  messageText: And we should trust a thief that was found robbing a dead body?
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -9916,9 +9916,9 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: First I didn't much of it thoight maybe he was trying to help a friend,
-    but then I saw him start go through his clothes and I understood that he was
-    robbing him.
+  messageText: First I didn't think much of it,  maybe he was trying to help a friend,
+    but then I saw him start to go through his clothes and then I understood that
+    he was robbing him.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -10384,7 +10384,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: So what do they call you?
+  messageText: So, what do they call you?
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -11428,7 +11428,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I got nothing, please let me go.
+  messageText: I got nothing, please let me go!
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -16248,7 +16248,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: Well at least I'm not an entire mess myself unlike some of us.
+  messageText: Well at least I'm not an entire mess myself, unlike some of us...
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -17117,7 +17117,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: So they sent you did they? "scoff"
+  messageText: So they sent you, did they? "scoff"
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -17177,7 +17177,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: What is a bus stop doing here...
+  messageText: What is a bus stop doing here?
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -17542,7 +17542,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: No, I haven't hear anything.
+  messageText: No, I haven't heard anything.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -19838,10 +19838,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 1
+    y: 14
     width: 300
-    height: 60
+    height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 1445739897237304485}
@@ -20719,8 +20719,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Since I got a DUI last week the boss told me to take the bus from
-    now on... that jerk.
+  messageText: Since I got a DUI last week, the boss told me to take the bus from
+    now on... That jerk.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -22088,7 +22088,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 843106958}
   messageText: "I didn\u2019t want to get involved in any of this. I thought someone
-    else will find him, so I decided to see what he had on him."
+    else would find him, so I decided to see what he had on him."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -22835,7 +22835,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 375608653}
-  messageText: You don't have to offer me twice
+  messageText: You don't have to offer me twice!
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -23353,7 +23353,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 375608653}
-  messageText: Well take everything back to station one we are done here.
+  messageText: We'll take everything back to station when we are done here.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -24174,7 +24174,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: You can let the pickpocket go, he won't get us far he's too scared.
+  messageText: You can let the pickpocket go, he won't get us far, he's too scared.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -24240,8 +24240,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: Listen I'm not part of The Board nor do I get paid enough to worry
-    about something that isn't my problem. I'm just here to inform who ever needs
+  messageText: Listen! I'm not part of the board, nor do I get paid enough to worry
+    about something that isn't my problem. I'm just here to inform whom ever needs
     to take care of this mess.
   lineID: -1
   multiLineIDs: 
@@ -24427,7 +24427,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: "If anything else comes to mind don\u2019t hastate to call the number
+  messageText: "If anything else comes to mind, don\u2019t hesitate to call the number
     on this business card. *detective hand a business card*."
   lineID: -1
   multiLineIDs: 
@@ -27148,8 +27148,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 375608653}
-  messageText: This is the one that the woman called us in for, keep saying knows
-    nothing and then the guy was already like that when he found him.
+  messageText: This is the one that the woman called us in for, he keeps saying "he
+    knows nothing and that the guy was already like that when he found him."
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -27714,8 +27714,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: That's when I called in the police, not shortly after the first officer
-    arrived and then after arresting the thief they called in more officers
+  messageText: That's when I called the police, shortly after the first officer arrived
+    and then after arresting the thief they called in more officers.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -28862,7 +28862,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 886365379}
-  messageText: As I told officer Foley, I saw a man leaning a blueein from my window.
+  messageText: As I told officer Foley, I saw a man leaning over a blueein, from
+    my window.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -28975,7 +28976,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1204789415}
   messageText: Those are the "Blue Rocks", hand them over to Bulky officer he'll
-    take them back to station when we're done here.
+    take them back to the station when we're done.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -29521,8 +29522,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I already told you all, that he was that way then I got here. I only
-    wanted to see what the guy had on him.
+  messageText: I already told you everything.  That he was that way then I got here.
+    I only wanted to see what the guy had on him.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -29614,7 +29615,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh24292
+  m_Name: pb_Mesh256566
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29893,7 +29894,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 843106958}
   messageText: Fine fine, there was a car that dropped the body off, it was white
-    with red with blue headlights. That all I know.
+    and red with blue headlights. That all I know.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -30139,7 +30140,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1942202932}
-  messageText: Yes I have.
+  messageText: Yes, I have.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -30893,7 +30894,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I apologies miss Bell. What can you tell me about tonight?
+  messageText: I apologize miss Bell. What can you tell me about tonight?
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -31523,7 +31524,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1942202932}
-  messageText: This is Anna Bell she's the one that called in on the pickpocket and
+  messageText: This is Anna Bell she's the one that called in the pickpocket and
     the body.
   lineID: -1
   multiLineIDs: 
@@ -31710,7 +31711,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: I can't leave without thoroughly checking the crime scene.
+  messageText: I can't leave without thoroughly checking the crime scene!
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -34276,7 +34277,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: Stop bothering me with nonsense.
+  messageText: Stop bothering me with this nonsense.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -34336,7 +34337,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: I'll go see the victims family
+  messageText: I'll go see the victims family.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -34742,7 +34743,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: The Board must be happy to have you on the payroll.
+  messageText: The board must be happy to have you on the payroll.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -36348,7 +36349,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: "Ok Twichy Rick care to tell me little bit about how you\u2019re involved
+  - label: "Ok, Twichy Rick care to tell me little bit about how you\u2019re involved
       in all of this?"
     lineID: -1
     icon: {fileID: 0}
@@ -36489,7 +36490,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Are you sure you dont remember anything else ?
+  - label: Are you sure you dont remember anything else?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -36574,8 +36575,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: "Ok Twichy Rick care to tell me little bit about how you\u2019re involved
-      in all of this?"
+    label: Are you sure you dont remember anything else?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -36591,15 +36591,15 @@ MonoBehaviour:
       clickOffset: {x: 0, y: 0}
       frameSpeeds: []
       alwaysAnimate: 0
-    isOn: 1
+    isOn: 0
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 1
+    ID: 6
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 7016693374637178795}
+    dialogueOption: {fileID: 6333083054672280446}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -43085,7 +43085,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: So anything else you would like to share with me?
+    label: Tell me what you know otherwise we lock you up and call it an evening.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43105,11 +43105,11 @@ MonoBehaviour:
     isLocked: 0
     conversationAction: 2
     newConversation: {fileID: 1919413792467210587}
-    ID: 1
+    ID: 2
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 3461560113410651106}
+    dialogueOption: {fileID: 5021026164409689676}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -43434,7 +43434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: Could you tell me a little bit of what you saw here tonight misses Bell.
+  - label: Could you tell me a little bit of what you saw here tonight Mrs. Bell.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43462,7 +43462,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Did you see anything prior to the thief leaning over the blueein
+  - label: Did you see anything prior to the thief leaning over the Blueein
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43575,7 +43575,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: Could you tell me a little bit of what you saw here tonight misses Bell.
+    label: Thank you miss Bell you are free to return to your apartment.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43591,15 +43591,15 @@ MonoBehaviour:
       clickOffset: {x: 0, y: 0}
       frameSpeeds: []
       alwaysAnimate: 0
-    isOn: 1
+    isOn: 0
     isLocked: 0
-    conversationAction: 0
+    conversationAction: 1
     newConversation: {fileID: 0}
-    ID: 1
+    ID: 4
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 1161079550735169487}
+    dialogueOption: {fileID: 381446790598505332}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -44653,7 +44653,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: So who's the victim?
+  - label: So, who's the victim?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -44794,7 +44794,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: So who's the victim?
+    label: I'll get back to you later.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -44812,13 +44812,13 @@ MonoBehaviour:
       alwaysAnimate: 0
     isOn: 1
     isLocked: 0
-    conversationAction: 0
+    conversationAction: 1
     newConversation: {fileID: 0}
-    ID: 1
+    ID: 5
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 7059402145170388852}
+    dialogueOption: {fileID: 2652462381514717242}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
