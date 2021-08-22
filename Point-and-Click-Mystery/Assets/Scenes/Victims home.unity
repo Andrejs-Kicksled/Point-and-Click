@@ -12496,7 +12496,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4582785716624020, guid: 6e4e5f27baecf0042a048cb9eeb99171, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.11
+      value: -4.242
       objectReference: {fileID: 0}
     - target: {fileID: 4582785716624020, guid: 6e4e5f27baecf0042a048cb9eeb99171, type: 3}
       propertyPath: m_LocalPosition.y
@@ -28152,7 +28152,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1656595872}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.26, y: 0.187, z: -2.553}
+  m_LocalPosition: {x: 0.26, y: 0.187, z: -2.629}
   m_LocalScale: {x: 3.4434044, y: 0.7508, z: 0.34445134}
   m_Children: []
   m_Father: {fileID: 2076724036}
@@ -29580,7 +29580,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 689327887}
   constantID: 0
   parameterID: -1
-  linkedCamera: {fileID: 4372358448995283217}
+  linkedCamera: {fileID: 2033856947}
   transitionTime: 0
   transitionTimeParameterID: -1
   timeCurve:
@@ -39299,7 +39299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionSource: 0
-  limitToCamera: {fileID: 4372358448995283217}
+  limitToCamera: {fileID: 2033856947}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
   lineID: -1
