@@ -25,7 +25,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: e54effe7242064987b6b9ae71576d6fc, type: 3}
+    tex: {fileID: 2800000, guid: 53214ce1bb587e8408607738df9b28a9, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -135,7 +135,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: a0d83c301981ebd49b928c270d128af2, type: 3}
+    tex: {fileID: 2800000, guid: adc4a9e2ba92ba74380b267ede21952a, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -190,7 +190,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: 9f0daad3d77c6b445bcb80f14558dd6d, type: 3}
+    tex: {fileID: 2800000, guid: b6572423d2291fe40a83f61cd07aab13, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -245,7 +245,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: 6e7efac84982c4fb28b5e4870630bf96, type: 3}
+    tex: {fileID: 2800000, guid: a1f0ed63902f0f744844bfd376436644, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
