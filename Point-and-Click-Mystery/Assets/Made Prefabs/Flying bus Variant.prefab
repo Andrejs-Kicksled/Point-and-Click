@@ -237,7 +237,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!1 &6713969809582205374
+--- !u!1 &8718378861636882233
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -245,45 +245,45 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4001751450330593468}
-  - component: {fileID: 6283570140107501377}
-  - component: {fileID: 6138412117803239758}
+  - component: {fileID: 1251391295082512757}
+  - component: {fileID: 2718483909816709375}
+  - component: {fileID: 266092181824361223}
   m_Layer: 0
-  m_Name: SM_Veh_Retro_Hover_01_Wheel_rr_Hover (1)
+  m_Name: SM_Veh_Retro_Hover_01_Wheel_fr_Hover (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4001751450330593468
+--- !u!4 &1251391295082512757
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6713969809582205374}
-  m_LocalRotation: {x: -0, y: -0.2588186, z: -0, w: 0.965926}
-  m_LocalPosition: {x: 1.265, y: 0.60231113, z: -1.5799999}
+  m_GameObject: {fileID: 8718378861636882233}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.002, y: 0.852, z: -1.599}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6170198003462837325}
   m_RootOrder: 13
-  m_LocalEulerAnglesHint: {x: 0, y: -30.000002, z: 0}
---- !u!33 &6283570140107501377
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2718483909816709375
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6713969809582205374}
-  m_Mesh: {fileID: 4300022, guid: 9970663ff6d96b14d9a5bb8ab404d159, type: 3}
---- !u!23 &6138412117803239758
+  m_GameObject: {fileID: 8718378861636882233}
+  m_Mesh: {fileID: 4300020, guid: 9970663ff6d96b14d9a5bb8ab404d159, type: 3}
+--- !u!23 &266092181824361223
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6713969809582205374}
+  m_GameObject: {fileID: 8718378861636882233}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -329,7 +329,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1276464829909656, guid: 8ed01fcd1041a2f4786e8f659d55bb33, type: 3}
       propertyPath: m_Name
-      value: Flying bus
+      value: Flying bus Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1599614588754176, guid: 8ed01fcd1041a2f4786e8f659d55bb33, type: 3}
       propertyPath: m_IsActive

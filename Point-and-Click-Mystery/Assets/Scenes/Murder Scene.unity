@@ -4264,7 +4264,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Woman
+      value: Anna Bell
       objectReference: {fileID: 0}
     - target: {fileID: 4000628349050788, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7064,8 +7064,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: I saw a red car with no number dropping off the body that is all I
-    know, I really don't know anything else.
+  messageText: I saw a white with red car with blue headlights dropping off the body
+    that is all I know, I really don't know anything else.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -9915,7 +9915,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1250972084022596, guid: 2660028b03df0864c97c559f312915ba, type: 3}
       propertyPath: m_Name
-      value: Victim
+      value: Lester Rogers
       objectReference: {fileID: 0}
     - target: {fileID: 1490327032843848, guid: 2660028b03df0864c97c559f312915ba, type: 3}
       propertyPath: m_IsActive
@@ -14603,7 +14603,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Bulky Officer
+      value: Officer Gunderson
       objectReference: {fileID: 0}
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Layer
@@ -15741,6 +15741,100 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
+--- !u!1 &811132533
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 811132537}
+  - component: {fileID: 811132536}
+  - component: {fileID: 811132535}
+  - component: {fileID: 811132534}
+  m_Layer: 0
+  m_Name: Poster (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!64 &811132534
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &811132535
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 85f5ee439de179c4ebc577c9bfe1bb1e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &811132536
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &811132537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 811132533}
+  m_LocalRotation: {x: 0.70710576, y: -0, z: -0, w: 0.7071079}
+  m_LocalPosition: {x: -1.498, y: 2.527, z: -5.555}
+  m_LocalScale: {x: 0.09394834, y: 0.09394834, z: 0.11217431}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 47
+  m_LocalEulerAnglesHint: {x: 90.00001, y: 0, z: 0}
 --- !u!1001 &812032201
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18496,7 +18590,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Pickpocket
+      value: Twichy Rick
       objectReference: {fileID: 0}
     - target: {fileID: 4000628349050788, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29344,7 +29438,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh222870
+  m_Name: pb_Mesh1149700
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29622,8 +29716,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 843106958}
-  messageText: Fine fine, there was a car that dropped the body off, it was red with
-    no number. That all I know.
+  messageText: Fine fine, there was a car that dropped the body off, it was white
+    with red with blue headlights. That all I know.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -31529,7 +31623,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1915102008071246, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_Name
-      value: Newbie Officer
+      value: Officer Foley
       objectReference: {fileID: 0}
     - target: {fileID: 4000628349050788, guid: 0ad0eab167bb2974ab38b6df07f8d458, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33366,7 +33460,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1204789415}
-  messageText: Victim is a blueein, we ID him as Kevin
+  messageText: Victim is a blueein, we ID him as Lester Rogers.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -36223,7 +36317,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: 
+    label: Are you sure you don't remember anything else?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -36239,15 +36333,15 @@ MonoBehaviour:
       clickOffset: {x: 0, y: 0}
       frameSpeeds: []
       alwaysAnimate: 0
-    isOn: 1
+    isOn: 0
     isLocked: 0
     conversationAction: 0
     newConversation: {fileID: 0}
-    ID: 8
+    ID: 5
     hasBeenChosen: 0
-    linkToInventory: 1
+    linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 0}
+    dialogueOption: {fileID: 3175356452181670788}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -39372,7 +39466,7 @@ PrefabInstance:
     - target: {fileID: 4976396410528810490, guid: ae1c5865187b08448bd49ced9db6caf8,
         type: 3}
       propertyPath: m_Name
-      value: Commanding Officer
+      value: Commanding Officer Doyle
       objectReference: {fileID: 0}
     - target: {fileID: 4978759412983716296, guid: ae1c5865187b08448bd49ced9db6caf8,
         type: 3}
@@ -41334,7 +41428,7 @@ GameObject:
   - component: {fileID: 6176111955567671187}
   - component: {fileID: 6176111955563620979}
   m_Layer: 0
-  m_Name: Woman and newbie officer
+  m_Name: Woman and Officer Foley
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
