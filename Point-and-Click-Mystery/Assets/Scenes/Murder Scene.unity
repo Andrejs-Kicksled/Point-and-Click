@@ -5874,8 +5874,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionSource: 0
-  limitToCamera: {fileID: 0}
-  interactiveBoundary: {fileID: 7864651268520769111}
+  limitToCamera: {fileID: 197429777080882190}
+  interactiveBoundary: {fileID: 0}
   hotspotName: 
   lineID: -1
   highlight: {fileID: 0}
@@ -16135,8 +16135,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionSource: 0
-  limitToCamera: {fileID: 0}
-  interactiveBoundary: {fileID: 7864651268520769111}
+  limitToCamera: {fileID: 397346865}
+  interactiveBoundary: {fileID: 0}
   hotspotName: 
   lineID: -1
   highlight: {fileID: 0}
@@ -32863,8 +32863,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionSource: 0
-  limitToCamera: {fileID: 0}
-  interactiveBoundary: {fileID: 7864651268520769111}
+  limitToCamera: {fileID: 197429777080882190}
+  interactiveBoundary: {fileID: 0}
   hotspotName: 
   lineID: -1
   highlight: {fileID: 0}
@@ -36998,8 +36998,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionSource: 0
-  limitToCamera: {fileID: 0}
-  interactiveBoundary: {fileID: 7864651268520769111}
+  limitToCamera: {fileID: 397346865}
+  interactiveBoundary: {fileID: 0}
   hotspotName: Dead body
   lineID: -1
   highlight: {fileID: 0}
@@ -41192,8 +41192,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   interactionSource: 0
-  limitToCamera: {fileID: 0}
-  interactiveBoundary: {fileID: 7864651268520769111}
+  limitToCamera: {fileID: 197429777080882190}
+  interactiveBoundary: {fileID: 0}
   hotspotName: 
   lineID: -1
   highlight: {fileID: 0}
@@ -43393,8 +43393,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7864651268515295321}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -17.524, y: 0.751, z: -19.22}
-  m_LocalScale: {x: 8.5109, y: 1, z: 15.444946}
+  m_LocalPosition: {x: -17.524, y: 0.751, z: -22.03}
+  m_LocalScale: {x: 8.5109, y: 1, z: 8.56009}
   m_Children: []
   m_Father: {fileID: 1422190546}
   m_RootOrder: 3
