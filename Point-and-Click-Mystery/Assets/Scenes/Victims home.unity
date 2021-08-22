@@ -1740,8 +1740,8 @@ Transform:
   m_Children:
   - {fileID: 425373131}
   - {fileID: 360806785}
-  - {fileID: 1964711117}
   - {fileID: 1096866534}
+  - {fileID: 1964711117}
   - {fileID: 2122893770}
   - {fileID: 1150570945}
   - {fileID: 664495547}
@@ -2276,7 +2276,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &132330712
 Transform:
   m_ObjectHideFlags: 0
