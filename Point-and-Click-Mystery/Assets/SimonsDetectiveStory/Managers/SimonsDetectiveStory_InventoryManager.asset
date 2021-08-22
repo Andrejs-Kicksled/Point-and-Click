@@ -25,7 +25,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: 53214ce1bb587e8408607738df9b28a9, type: 3}
+    tex: {fileID: 2800000, guid: c5b0957d14cb48d40a00b63e16ffb841, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -80,7 +80,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: 9175634cb85ec4f4c9b9630f1883bdb6, type: 3}
+    tex: {fileID: 2800000, guid: 75f6b4ac3512ede44b2712615fb90158, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -135,7 +135,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: adc4a9e2ba92ba74380b267ede21952a, type: 3}
+    tex: {fileID: 2800000, guid: acb7f960ada80b94b8feb4b4dca31fc2, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -190,7 +190,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: b6572423d2291fe40a83f61cd07aab13, type: 3}
+    tex: {fileID: 2800000, guid: 2d26905c264225346ae9b42df8f435e6, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -245,7 +245,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 2800000, guid: a1f0ed63902f0f744844bfd376436644, type: 3}
+    tex: {fileID: 2800000, guid: 52335dc86e1c25a4092e497ba08c816c, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -300,7 +300,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 726bc7c995ecd8e45814d5d5c7ad0bfc, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -332,7 +332,7 @@ MonoBehaviour:
       label: on
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 11400000, guid: 010995387a6cc374aadc92ab8deaba9e, type: 2}
+    lookActionList: {fileID: 0}
     interactions: []
     combineInteractions: []
     combineActionList: []
