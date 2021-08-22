@@ -726,9 +726,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 5
   title: Conversation
-  manualSize: {x: 41, y: 59}
+  manualSize: {x: 41.6, y: 58.4}
   positionType: 1
-  manualPosition: {x: 481, y: 381.40503}
+  manualPosition: {x: 481, y: 383.028}
   positionSmoothing: 0
   alignment: 7
   toggleKey: 
@@ -802,10 +802,10 @@ MonoBehaviour:
   biggestElementSize: {x: 471.65723, y: 252.98247}
   rect:
     serializedVersion: 2
-    x: 283.79
-    y: 221.81003
-    width: 394.41998
-    height: 319.18997
+    x: 280.904
+    y: 225.056
+    width: 400.192
+    height: 315.944
   showInFilter: 1
 --- !u!114 &-6721881886146556763
 MonoBehaviour:
@@ -2820,7 +2820,7 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 0
-    y: 9.8462
+    y: 15.296776
     width: 481
     height: 37.87
   relativePosition: {x: 0, y: 6.5}
@@ -2987,7 +2987,7 @@ MonoBehaviour:
   slotSize: {x: 40, y: 4}
   sizeType: 1
   positionType: 2
-  slotSpacing: 4
+  slotSpacing: 3.8
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 31e9027949eff3b40a1e5d085e0a9935, type: 3}
@@ -3009,12 +3009,12 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 2.7609398
-    y: 73.4137
+    x: 2.8013437
+    y: 43.28433
     width: 384.8
-    height: 21.64
-  relativePosition: {x: 0.7, y: 23}
-  numSlots: 1
+    height: 232.62999
+  relativePosition: {x: 0.7, y: 13.7}
+  numSlots: 6
   uiSlots:
   - uiButton: {fileID: 0}
     uiButtonID: 14180912
@@ -3839,11 +3839,11 @@ MonoBehaviour:
   _isLocked: 0
   id: 9
   title: Subtitles
-  manualSize: {x: 50, y: 28}
-  positionType: 0
-  manualPosition: {x: 481, y: 270.5}
+  manualSize: {x: 50, y: 43.5}
+  positionType: 1
+  manualPosition: {x: 481, y: 423.3325}
   positionSmoothing: 0
-  alignment: 0
+  alignment: 7
   toggleKey: 
   ignoreMouseClicks: 1
   pauseWhenEnabled: 0
@@ -3916,9 +3916,9 @@ MonoBehaviour:
   rect:
     serializedVersion: 2
     x: 240.5
-    y: 194.76001
+    y: 305.66498
     width: 481
-    height: 151.48
+    height: 235.335
   showInFilter: 1
 --- !u!114 &466137385962571699
 MonoBehaviour:
@@ -4538,7 +4538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: SubsLineLabel
-  slotSize: {x: 36.6, y: 7.6}
+  slotSize: {x: 40.1, y: 19.2}
   sizeType: 1
   positionType: 2
   slotSpacing: 0
@@ -4564,14 +4564,14 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 58.201
-    y: 47.716198
-    width: 352.09198
-    height: 41.115997
+    y: 74.13053
+    width: 385.762
+    height: 103.872
   relativePosition: {x: 12.1, y: 31.5}
   numSlots: 1
   uiText: {fileID: 0}
   label: Hi!
-  anchor: 3
+  anchor: 0
   textEffects: 1
   outlineSize: 1
   labelType: 2
