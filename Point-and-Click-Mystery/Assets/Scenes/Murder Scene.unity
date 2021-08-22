@@ -23411,7 +23411,7 @@ MonoBehaviour:
   interactionSource: 0
   limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 7235324798288256950}
-  hotspotName: 
+  hotspotName: Commanding Officer Doyle
   lineID: -1
   highlight: {fileID: 0}
   walkToMarker: {fileID: 976322055926514253}
