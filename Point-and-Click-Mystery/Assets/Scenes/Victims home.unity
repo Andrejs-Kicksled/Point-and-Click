@@ -563,7 +563,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: I don't believe we have Mrs Kevin.
+  messageText: I don't believe we have Mrs. Rogers.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -2448,7 +2448,7 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 8444852651869754095}
   parameterID: -1
-  constantID: 0
+  constantID: 2982430
   hotspot: {fileID: 1942851557}
   interactionType: 0
   changeType: 0
@@ -2631,7 +2631,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 464070132}
-  messageText: Have we meet before officer? You look familiar
+  messageText: Have we meet before officer? You look familiar.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -9699,7 +9699,7 @@ MonoBehaviour:
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 3944449485182497000}
-  constantID: 0
+  constantID: 2982430
   parameterID: -1
   messageParameterID: -1
   isPlayer: 0
@@ -11281,7 +11281,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: I don't believe we have Mrs Kevin.
+  messageText: I don't believe we have Mrs. Rogers.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -15283,17 +15283,17 @@ PrefabInstance:
     - target: {fileID: 7088565514934887527, guid: 4dd7c32f2e6b41641bcc443c4a7d282c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.618
+      value: 3.708
       objectReference: {fileID: 0}
     - target: {fileID: 7088565514934887527, guid: 4dd7c32f2e6b41641bcc443c4a7d282c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.972
+      value: -0.649
       objectReference: {fileID: 0}
     - target: {fileID: 7088565514934887527, guid: 4dd7c32f2e6b41641bcc443c4a7d282c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.848
+      value: -2.833
       objectReference: {fileID: 0}
     - target: {fileID: 7088565514934887527, guid: 4dd7c32f2e6b41641bcc443c4a7d282c,
         type: 3}
@@ -18156,7 +18156,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: You find a data pad inside the drawer
+  messageText: You find a data pad inside the drawer.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -18333,7 +18333,7 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 3944449485182497000}
   obToMoveParameterID: -1
-  obToMoveID: 0
+  obToMoveID: 2982430
   obToMove: {fileID: 1942851554}
   markerParameterID: -1
   markerID: 0
@@ -20806,7 +20806,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: That is more information that I cannot disclose.
+  messageText: That is more information than I can disclose.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -21153,8 +21153,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Hey kid, I'm detective "insert name". I'm just having a quick look
-    around the house.
+  messageText: Hey kid, I'm detective Hoppkins. I'm just having a quick look around
+    the house.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -21558,7 +21558,7 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 3944449485182497000}
   parameterID: -1
-  constantID: 0
+  constantID: 2982430
   hotspot: {fileID: 1942851557}
   affectChildren: 0
   changeType: 1
@@ -26388,8 +26388,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Hey kid, I'm detective "insert name". I'm just having a quick look
-    around the house.
+  messageText: Hey kid, I'm detective Hoppkins. I'm just having a quick look around
+    the house.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -26913,7 +26913,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 464070132}
-  messageText: Is my Kevin...
+  messageText: Is my Lester...
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -27545,7 +27545,7 @@ MonoBehaviour:
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 4410038054777014968}
-  constantID: 0
+  constantID: 2982430
   parameterID: -1
   messageParameterID: -1
   isPlayer: 0
@@ -28436,7 +28436,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: An officer will come by to take you to station for further questioning.
+  messageText: An officer will come by to take you to the station for further questioning.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -28547,7 +28547,7 @@ MonoBehaviour:
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 3944449485182497000}
-  constantID: 0
+  constantID: 2982430
   parameterID: -1
   messageParameterID: -1
   isPlayer: 0
@@ -29342,7 +29342,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 980076763}
-  messageText: Good evening, mrs Kevin.
+  messageText: Good evening, Mrs. Rogers.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -33334,7 +33334,7 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 7236201810463862062}
   parameterID: -1
-  constantID: 0
+  constantID: 2982430
   hotspot: {fileID: 1942851557}
   interactionType: 0
   changeType: 0
@@ -33766,7 +33766,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 1232755452}
   parameterID: -1
   constantID: 0
-  linkedCamera: {fileID: 4372358448995283217}
+  linkedCamera: {fileID: 2033856947}
   transitionTime: 1
   transitionTimeParameterID: -1
   fadeCurve:
@@ -33902,7 +33902,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 3944449485182497000}
   charToMoveParameterID: -1
   markerParameterID: -1
-  charToMoveID: 0
+  charToMoveID: 2982430
   markerID: 0
   marker: {fileID: 181457529}
   isPlayer: 0
@@ -33958,7 +33958,7 @@ MonoBehaviour:
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 1079511862}
   parameterID: -1
-  constantID: 0
+  constantID: 2982430
   hotspot: {fileID: 1942851557}
   interactionType: 0
   changeType: 0
@@ -35385,6 +35385,21 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1942851562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1942851554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72e60470f1fa4fd1825cd67ce482cf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 2982430
+  retainInPrefab: 0
+  autoManual: 0
 --- !u!1001 &1944256949
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35793,7 +35808,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 464070132}
-  messageText: He's job makes him unpredictable, at times he's gone for up to two
+  messageText: His job makes him unpredictable, at times he's gone for up to two
     days.
   lineID: -1
   multiLineIDs: 
@@ -36789,7 +36804,7 @@ MonoBehaviour:
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 4410038054777014968}
-  constantID: 0
+  constantID: 2982430
   parameterID: -1
   messageParameterID: -1
   isPlayer: 0
@@ -39722,7 +39737,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: I have few follow up questions if you don't mind.
+    label: Does your husband have any troubles that you are aware of?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -39738,15 +39753,15 @@ MonoBehaviour:
       clickOffset: {x: 0, y: 0}
       frameSpeeds: []
       alwaysAnimate: 0
-    isOn: 0
+    isOn: 1
     isLocked: 0
-    conversationAction: 2
-    newConversation: {fileID: 8606360060870727425}
-    ID: 3
+    conversationAction: 0
+    newConversation: {fileID: 0}
+    ID: 1
     hasBeenChosen: 0
     linkToInventory: 0
     linkedInventoryID: 0
-    dialogueOption: {fileID: 4518203613574258066}
+    dialogueOption: {fileID: 927545599133055872}
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
@@ -40531,7 +40546,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4795162784956457394}
   m_LocalRotation: {x: -0, y: 0.94224083, z: -0, w: 0.33493635}
-  m_LocalPosition: {x: 3.852, y: 0.414, z: -1.786}
+  m_LocalPosition: {x: 3.023, y: 0.414, z: -1.939}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1755782939}
@@ -41764,7 +41779,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionSource: 0
   options:
-  - label: 'He''s dead '
+  - label: He's dead.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -41792,7 +41807,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: I'm sorry for your loss mrs Kevin.
+  - label: I'm sorry for your loss Mrs. Rogers.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -41820,7 +41835,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: I'm very sorry but I cannot provide you with details
+  - label: I'm very sorry but I cannot provide you with details.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -41904,7 +41919,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: If you could answer few question that would be helpful.
+  - label: If you could answer a few question that would be helpful.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43258,7 +43273,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8059562900556042075}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.669, y: 0.414, z: -2.778}
+  m_LocalPosition: {x: 3.759, y: 0.737, z: -2.763}
   m_LocalScale: {x: 1, y: 3.4255, z: 0.28721}
   m_Children: []
   m_Father: {fileID: 539822965}
@@ -43613,7 +43628,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Does he often is gone for long periods of time?
+  - label: Is he often gone for long periods of time?
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43697,7 +43712,7 @@ MonoBehaviour:
     assetFile: {fileID: 0}
     customScriptObject: {fileID: 0}
     customScriptFunction: 
-  - label: Thank you that is all for now mrs Kevin.
+  - label: Thank you that is all for now Mrs. Rogers.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
@@ -43726,7 +43741,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   selectedOption:
-    label: Thank you that is all for now mrs Kevin.
+    label: Thank you that is all for now Mrs. Rogers.
     lineID: -1
     icon: {fileID: 0}
     cursorIcon:
