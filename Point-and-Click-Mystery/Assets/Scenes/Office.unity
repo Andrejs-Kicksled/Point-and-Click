@@ -14796,8 +14796,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: ' Not that I have a choice since I''m not allowed to use a personal
-    vehicle while on duty.'
+  messageText: Not that I have a choice since I'm not allowed to use a personal vehicle
+    while on duty.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -17391,7 +17391,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: I don't recall going to shooting range yesterday.
+  messageText: I don't recall going to the shooting range yesterday.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -35583,7 +35583,8 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 1435981990}
-  messageText: Don't you think you went over board with punching "commanding officer"?
+  messageText: Don't you think you went over board with punching Commanding Officer
+    Doyle?
   lineID: -1
   multiLineIDs: 
   isBackground: 0
