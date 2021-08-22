@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17276838, g: 0.21589248, b: 0.29782617, a: 1}
+  m_IndirectSpecularColor: {r: 0.1727681, g: 0.21589184, b: 0.29782552, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 0
+  m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -281,7 +281,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 626317124}
-  messageText: Ah, you're back. We cleared out the ally.
+  messageText: Ah, you're back. We've cleared out the ally.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -5343,7 +5343,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 626317124}
-  messageText: Nothing that would make this investigation easier
+  messageText: Nothing that would make this investigation easier.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -8281,7 +8281,7 @@ MonoBehaviour:
   isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: A shot discharged yesterday at 11:47 am
+  messageText: A shot discharged yesterday at 11:47 am.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -22482,51 +22482,6 @@ PrefabInstance:
       objectReference: {fileID: 2100002, guid: b451a052397f03c4f8a04d915d1c0492, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cbdda53aa8be0d841a4f044817656a44, type: 3}
---- !u!114 &627556798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0730368720d23479f8f782e46d149b0c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 300
-    height: 60
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  parameterID: -1
-  constantID: 0
-  hotspot: {fileID: 1933390223798672762}
-  affectChildren: 0
-  changeType: 0
 --- !u!114 &628686519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42476,6 +42431,51 @@ PrefabInstance:
       objectReference: {fileID: 2100002, guid: b451a052397f03c4f8a04d915d1c0492, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cbdda53aa8be0d841a4f044817656a44, type: 3}
+--- !u!114 &1104304927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0730368720d23479f8f782e46d149b0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 300
+    height: 60
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5147731101232174889}
+  parameterID: -1
+  constantID: 0
+  hotspot: {fileID: 1933390223798672762}
+  affectChildren: 0
+  changeType: 0
 --- !u!1001 &1105127594
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50576,7 +50576,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Yeah. Anything important come up after I left?
+  messageText: Yeah. Anything important come up, after I left?
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -54732,7 +54732,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nodes:
-  - {x: -2.2489996, y: 0.243, z: -29.322}
+  - {x: -2.695, y: 0.243, z: -28.081}
   nodeCommands:
   - cutscene: {fileID: 0}
     actionListAsset: {fileID: 0}
@@ -56205,7 +56205,7 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Can you send someone to victims house to pick up the wife for further
+  messageText: Can you send someone to victims home to pick up the wife for further
     questioning?
   lineID: -1
   multiLineIDs: 
@@ -56836,7 +56836,8 @@ MonoBehaviour:
   isPlayer: 1
   playerID: -1
   speaker: {fileID: 0}
-  messageText: Can I help you with anything? otherwise I have a case to get to.
+  messageText: Can I help you with anything? Otherwise I have a case to get back
+    to.
   lineID: -1
   multiLineIDs: 
   isBackground: 0
@@ -78628,7 +78629,7 @@ MonoBehaviour:
   - {fileID: 86400902}
   - {fileID: 628686519}
   - {fileID: 422548438}
-  - {fileID: 627556798}
+  - {fileID: 1104304927}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
